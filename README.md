@@ -16,4 +16,3 @@ This project builds and evaluates machine learning models to predict the probabi
 Source: Kaggle Playground Series S5E12  
 Files (download from Kaggle): `train.csv`, `test.csv`, `sample_submission.csv`
 
-Data files are not committed to GitHub. Place them locally under:
