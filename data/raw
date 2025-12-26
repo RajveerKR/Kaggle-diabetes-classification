@@ -1,0 +1,11 @@
+
+## Approach
+1. **Baseline model:** Logistic Regression (with preprocessing)
+2. **Improved model:** Gradient boosting model (e.g., XGBoost / LightGBM / CatBoost if available)
+3. **Evaluation:** Stratified K-Fold cross-validation with ROC-AUC
+4. **Output:** Kaggle submission file (`submission.csv`)
+
+## How to run
+1. Install dependencies:
+```bash
+pip install -r requirements.txt
