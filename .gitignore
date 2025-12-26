@@ -1,1 +1,23 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (Kaggle datasets are hosted externally)
+data/
+*.csv
+*.parquet
+
+# Model artifacts
+*.pkl
+*.joblib
+
+# Environment / secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
 
